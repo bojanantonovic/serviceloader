@@ -1,6 +1,4 @@
-package main;
-
-import disney.spi.DisneyWorldMember;
+import spi.DisneyWorldMember;
 
 import java.util.ServiceLoader;
 

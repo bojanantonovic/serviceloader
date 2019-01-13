@@ -1,6 +1,4 @@
-package disney;
-
-import disney.spi.DisneyWorldMember;
+import spi.DisneyWorldMember;
 
 public class Goofy implements DisneyWorldMember {
 

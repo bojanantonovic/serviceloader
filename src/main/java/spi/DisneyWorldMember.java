@@ -1,4 +1,4 @@
-package disney.spi;
+package spi;
 
 public interface DisneyWorldMember {
 
