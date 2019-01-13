@@ -1,5 +1,3 @@
-import spi.DisneyWorldMember;
-
 public class Mickey implements DisneyWorldMember {
 
 	@Override
